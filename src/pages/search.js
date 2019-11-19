@@ -14,7 +14,7 @@ const SearchPage = props => {
   const {
     data: {
       site: {
-        siteMetadata: { algolia, facebook }
+        siteMetadata: { facebook }
       }
     }
   } = props;
